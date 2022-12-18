@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandragrosul
 - 👀 I’m interested in books, piano, art, coding.
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me grosulalexandra@gmail.com
 
