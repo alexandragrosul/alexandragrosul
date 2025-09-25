@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sasha
-- 🥹 I'm 14
+- 🥹 I'm 15
 - 👀 I’m interested in books, piano, art, coding.
 - 🌱 I’m currently learning JavaScript, TypeScript, HTML, CSS, React Native and React
 - 💞️ I’m looking to collaborate on interesting projects
